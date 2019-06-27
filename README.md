@@ -1,1 +1,2 @@
-# India Health Facilities 
+India Health Facilities 
+RMSI is currently working to support expanded Information Management capacity within India. The goal is to provide accessible data of accurate health care information from the Open Government Data directories for Hospitals, Health facilities, Blood banks, Health Centers and Health Clinics information which can be useful for all the people and also the Humanitarian team in India
