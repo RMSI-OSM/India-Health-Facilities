@@ -1,9 +1,9 @@
-**RMSI-OSM Projects**
+#RMSI-OSM Projects
 
-Information about:
+##Information about:
 
 India Health facilities Import
 Maproulette Challanges 
 
-**Additional Information:**
+##Additional Information##
 For more information please contact us at osm@rmsi.com
