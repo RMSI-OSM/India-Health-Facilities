@@ -1,0 +1,100 @@
+latitude,longitude,name,addr:full,addr:subdistrict,addr:street,addr:place,addr:block,addr:district,addr:state,addr:postcode,contact:mobile,healthcare,source
+17.4870339,78.39292288,"SubCentre, KPHB Colony (Urban)","LIG - 134/1, KPHB Colony, Balanagar ",Balanagar ,"III PHASE , Balanagar",,,Ranga Reddy,Telangana,500003,,centre,OpenGovernmentData
+17.5053976,78.4083949,"SubCentre, VV Nagar (Urban)","Community Hall, Yellamma Banda, Balanagar ",Balanagar ,,,,Ranga Reddy,Telangana,500003,,centre,OpenGovernmentData
+17.2665639,78.4683466,"SubCentre, Pahadi Shareef ","Govt. Building, Beside ZPHS, Near Grama Panchayath, Saroornagar ",Saroornagar ,,Pahadi Shareef ,,Ranga Reddy,Telangana,500005,,centre,OpenGovernmentData
+17.30897469,78.49416018,"SubCentre, Kothapet","Gram Panchayath Building, Saroornagar ",Saroornagar ,"Salala Road, Kothapet",,,Ranga Reddy,Telangana,500005,,centre,OpenGovernmentData
+17.31059307,78.49908471,"SubCentre, Balapur","Govt. Building, Saroornagar ",Saroornagar ,Balapur,,,Ranga Reddy,Telangana,500005,,centre,OpenGovernmentData
+17.4733907,78.4872136,"SubCentre, Hasmathpet (Urban)","9-3-25/6A, Hasmathpet, Balanagar ",Balanagar ,Harjan Basthi,,,Ranga Reddy,Telangana,500009,,centre,OpenGovernmentData
+17.51801167,78.44496042,"SubCentre, Malikarjun Nagar (Urban)","Old Bowenpally, Balanagar ",Balanagar ,Community Hall,,,Ranga Reddy,Telangana,500009,,centre,OpenGovernmentData
+17.37450265,78.56204286,"SubCentre, Nagole (Urban)","632, Near Govt. School, Uppal ",Uppal ,,Bandlaguda,,Ranga Reddy,Telangana,500013,,centre,OpenGovernmentData
+17.39307071,78.53511214,"SubCentre, Ramanthapur-B (Urban)","3-10-29/1, Near E-Seva, Beside Monday Market, Uppal ",Uppal ,RTC Colony,,,Ranga Reddy,Telangana,500013,,centre,OpenGovernmentData
+17.39835358,78.53922129,"SubCentre, Ramanthapur-A (Urban)","Ramanthapur Janda, Uppal ",Uppal ,,Indira Nagar,,Ranga Reddy,Telangana,500013,,centre,OpenGovernmentData
+17.40567359,78.54384005,"SubCentre, Habsiguda (Urban)","Near ISI Campus Bus Stop, G.G. Colony, Uppal ",Uppal ,"Street No. 8, Habsiguda",,,Ranga Reddy,Telangana,500013,,centre,OpenGovernmentData
+17.45939757,78.44930023,"SubCentre, Fatehnagar (Urban)","Near Fathenagar Ward Office, Balanagar ",Balanagar ,,,,Ranga Reddy,Telangana,500018,,centre,OpenGovernmentData
+17.46814279,78.4243302,"SubCentre, Moosapet (Urban)","Community Hall, Moosapet, Balanagar ",Balanagar ,,,,Ranga Reddy,Telangana,500018,,centre,OpenGovernmentData
+17.46895128,78.42083126,"SubCentre, Muskipet (Urban)","Muskipet Ward Office, Balanagar ",Balanagar ,,,,Ranga Reddy,Telangana,500018,,centre,OpenGovernmentData
+17.39835358,78.56634915,"SubCentre, Laxminagar (Urban)","Near Uppalamma Temple, Community Hall, Vijayapuri, Uppal ",Uppal ,,,,Ranga Reddy,Telangana,500020,,centre,OpenGovernmentData
+17.3184713,78.4519262,"SubCentre, Mailardevpally","Opp. Sri Krishna Hotel, Rajendranagar ",Rajendranagar ,,Mailardevpally,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.31919689,78.39346468,"SubCentre, Budwel","Near Hanuman Temple , Rajendranagar ",Rajendranagar ,,Budwel,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.31987033,78.40275452,"SubCentre, Rajendranagar","Beside E-Seva, Rajendranagar ",Rajendranagar ,Baddera Basthi,,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.3365515,78.3839857,"SubCentre, Kismatpur","Pochamma Temple, Rajendranagar ",Rajendranagar ,"BC Colony, Kismatpur",,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.336686,78.4304294,"SubCentre, Indira Nagar","Near TRS Office, Rajendranagar ",Rajendranagar ,Indra Nagar,,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.3373164,78.4443317,"SubCentre, Hasan Nagar","Opp. Badanal, Rajendranagar ",Rajendranagar ,,Hassan Nagar,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.35189797,78.42732355,"SubCentre, M.M.Pahadi","Near Bus Stop, Rajendranagar ",Rajendranagar ,"4th Ward, M.M Pahadi",,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.35229735,78.3858794,"SubCentre, Bandalguda","Old Grama Panchayath, Rajendranagar ",Rajendranagar ,,Bandlaguda,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.3630425,78.3895553,"SubCentre, Hydershakote","Post Office Building, Rajendranagar ",Rajendranagar ,"SC Basthi, Hydershakote",,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.36951092,78.4358865,"SubCentre, Attapur","Near Ward Office, Behind Ration Shop, Rajendranagar ",Rajendranagar ,,Attapur,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.37373982,78.35163295,"SubCentre, Manchirevula","Near Grama Panchayath, Rajendranagar ",Chevella ,,Manchirevula,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.38715801,78.35496157,"SubCentre, Narsingi","Near Police Station, Rajendranagar ",Rajendranagar ,,Narsingi,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.4000608,78.301078,"SubCentre, Khanapur","Water Pump, Rajendranagar ",Rajendranagar ,,Khanpur,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.40367726,78.37574601,"SubCentre, Manikonda","Near Grama Panchayath , Rajendranagar ",Rajendranagar ,,Manikonda,,Ranga Reddy,Telangana,500030,,centre,OpenGovernmentData
+17.33187655,78.5361743,"SubCentre, Bhupeshgupta Nagar","Govt. School Building, Near Electricity Junction, Saroornagar ",Saroornagar ,,Nandanavanam,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.3387998,78.534782,"SubCentre, Karmanghat","Govt. Building, Near Ward Office, Saroornagar ",Saroornagar ,,Karmanghat,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.34519027,78.52016687,"SubCentre, Champapet","Govt. Building, Near Govt. School, Saroornagar ",Saroornagar ,,Champapet,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.34892562,78.54777351,"SubCentre, L. B. Nagar","Govt. Building, Ward Office, Behind Bus Stop, Saroornagar ",Saroornagar ,,L.B Nagar,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.35635257,78.54786336,"SubCentre, N.T.R Nagar","Govt. Building, Near Rythu Bazar, Saroornagar ",Saroornagar ,Banjara Colony,,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.35729468,78.53426993,"SubCentre, Saroornagar","Govt. Building, PHC Saroornagar Compound, Saroornagar ",Saroornagar ,"Venkateshwara Colony Road, Saroornagar",,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.35945152,78.52996297,"SubCentre, Vivekananadanagar","Community Hall, Near Pochamma Temple, Saroornagar ",Saroornagar ,"Syndicate Bank Colony, Vivekananda Nagar",,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.36125762,78.52682412,"SubCentre, PNT Colony","Community Hall, Near Venkateshwara Swamy Temple, PNT Colony, Saroornagar ",Saroornagar ,Road No. 4,,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.36698172,78.52561712,"SubCentre, Gaddiannaram","Govt. Building, Mahila Mandali, Saroornagar ",Saroornagar ,"Sai Nagar Road, Gaddiannaram",,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.36711484,78.52807939,"SubCentre, Kamalanagar","Govt. Building, Mahila Mandali, Saroornagar ",Saroornagar ,"Bommanagandi, Kamala Nagar",,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.37126188,78.55122417,"SubCentre, R.K Puram","Govt. Building, Near Community Hall, Saroornagar ",Saroornagar ,"Road No. 2, R. K. Puram",,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.50962185,78.42560023,"SubCentre, N.T.R. Nagar (Urban)","H.No: 5-24-252, Ward No. 26, Srinivas Nagar Bus Stop, Navodaya School, Quthbullapur ",Qutubullapur ,,N.T.R Nagar,,Ranga Reddy,Telangana,500035,,centre,OpenGovernmentData
+17.50603047,78.41881424,"SubCentre, Jagadgirigutta (Urban)","Jagathgiri Gutta, Balanagar ",Balanagar ,Pragathi Nagar,,,Ranga Reddy,Telangana,500037,,centre,OpenGovernmentData
+17.5066172,78.4112384,"SubCentre, Alwyn Colony (Urban)","Allwyn Colony, Balanagar ",Balanagar ,II PHASE,,,Ranga Reddy,Telangana,500037,,centre,OpenGovernmentData
+17.37390365,78.54917228,"SubCentre, Kothapaet-I (Urban)","02-12-1/11, Mohan Nagar Main Road, Uppal ",Uppal ,,,,Ranga Reddy,Telangana,500039,,centre,OpenGovernmentData
+17.40494672,78.56557131,"SubCentre, Uppal (Urban)","02-15-119, Near Masjid, Uppal ",Uppal ,,Beerappagadda,,Ranga Reddy,Telangana,500039,,centre,OpenGovernmentData
+17.41456982,78.39064837,"SubCentre, Raidurga (Urban)","Opp. Ranganatha Swami Temple, Serilingampally ",Serilingampally ,Rai Darga,,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.4208251,78.3443989,"SubCentre, Nanakarmaguda (Urban)","Opp. Golf View, Near Ring Road, Serilingampally ",Serilingampally ,,S.C Area,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.45157821,78.3659707,"SubCentre, Gachibowli (Urban)","Near Vidhya Talent School, Serilingampally ",Serilingampally ,Gachibowli,,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.465292,78.3765548,"SubCentre, Kothaguda (Urban)","Opp. Masjid, Serilingampally ",Serilingampally ,Kothaguda,,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.47958412,78.32109869,"SubCentre, Serilingampally (Urban)","Opp. Govt. School, Serilingampally ",Serilingampally ,,Gopi Nagar,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.49049134,78.31640281,"SubCentre, Taranagar (Urban)","Near Rythu Market, Serilingampally ",Serilingampally ,Tara Nagar,,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.49183311,78.32502544,"SubCentre, Chandanager (Urban)","Hanuman Temple, Serilingampally ",Serilingampally ,"Chanda Nagar Main Road, Gangaram",,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.49931309,78.31558943,"SubCentre, Vemukunta (Urban)","Opp. Jawahar Ramans School, Jawahar Colony , Serilingampally ",Serilingampally ,"Road No. 1, Vemukunta ",,,Ranga Reddy,Telangana,500046,,centre,OpenGovernmentData
+17.44372549,78.53991791,"SubCentre, Babu Jagjivan Ram Nagar (Urban)","10-355/2/7, Near DM Hospital, Malkajgiri ",Malkajgiri ,B.J.R Nagar,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.44405021,78.53123903,"SubCentre, Mirjalguda (Urban)","16-182, Near Dharga, Malkajgiri ",Malkajgiri ,,Mirjal Guda,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.45072358,78.53501558,"SubCentre, Malkajigiri (Urban)","6-130/6, Near Temple, Malkajgiri ",Malkajgiri ,Geetha Nagar,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.45092828,78.5420537,"SubCentre, S.P.Nager (Urban)","Near Bus Stop, Malkajgiri ",Malkajgiri ,S.P Nagar,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.45388107,78.52886662,"SubCentre, IndiraNehru nagar (Urban)","17-641/2, Near Community Hall, Malkajgiri ",Malkajgiri ,Indira Nehru Nagar ,,,Ranga Reddy,Telangana,500047,9059847265,centre,OpenGovernmentData
+17.45703338,78.55519786,"SubCentre, Moula Ali (Urban)","43-120, Near Kaman, Malkajgiri ",Malkajgiri ,Moula Ali,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.4692706,78.5390818,"SubCentre, Vinayaknagar (Urban)","29-685, Near Shiva Temple, Malkajgiri ",Malkajgiri ,,Vinayak Nagar,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.47736089,78.52923408,"SubCentre, Ramkirshnapuram (Urban)","32-67/340, Near Govt. School, Malkajgiri ",Malkajgiri ,R.K Puram,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.49247777,78.53604555,"SubCentre, Nirmalnagar (Urban)","6-2-295/A, Near Church, Malkajgiri ",Malkajgiri ,Nirmal Nagar,,,Ranga Reddy,Telangana,500047,,centre,OpenGovernmentData
+17.49497,78.41124,"SubCentre, Venkateshwar Nagar (Urban)","NGO Urban Health Centre (new), Quthbullapur ",Qutubullapur ,"Satgyan School Lane, Venkateshwar Nagar",,,Ranga Reddy,Telangana,500054,,centre,OpenGovernmentData
+17.48875,78.4418,"SubCentre, Girinager (Urban)","20-138/1/c, Near Konda Pochammagudi, Quthbullapur ",Qutubullapur ,Samrat Function Hall Lane,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.4940229,78.44415441,"SubCentre, Nandanagar (Urban)","H.No: 30-5, Near Krishnaveni Talent School, Quthbullapur ",Qutubullapur ,"Pochamma Temple veedhi, Nandanagar",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.49468802,78.44525278,"SubCentre, Bhagathsing Nagar (Urban)","46-751, Road No. 13, Near Ration Shop, Quthbullapur ",Qutubullapur ,Bhagath Singh Nagar,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.50142093,78.47238868,"SubCentre, Quthubullapur - II (Urban)","6-564/63, Near Chintal Bustop, Quthbullapur ",Qutubullapur ,Sai Swaroop Hospital Lane,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.50332411,78.46026242,"SubCentre, Quthbullapur - I (Urban)","Near Venugopala Swamy Temple, Old post Office, Gardenbasthi",Qutubullapur ,"Venugopala Swamy Temple Lane, Quthbullapur",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.51420049,78.44269931,"SubCentre, Shapur Nagar (Urban)","H.No: 11-52, UHC, Quthbullapur ",Qutubullapur ,"Ramaram Road, Shapur Nagar",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.515224,78.472939,"SubCentre, Jeedimetla (Urban)","Veterinary Hospital, Quthbullapur ",Qutubullapur ,"New Lilly Little High School Lane, Jeedimetla",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.51826,78.44216,"SubCentre, Kalavathinagar (Urban)","H.No: 4-35-81, Near Milk Booth, Quthbullapur ",Qutubullapur ,,Kalavathinagar,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.51964355,78.37871522,"SubCentre, Nizampet","Govt. Building, Quthbullapur ",Qutubullapur ,"ZPHS Lane, Seetharam Nagar",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.53422749,78.40290874,"SubCentre, Gujulramaram -II (Urban)","16-141, Kaja Pan Shop Lane, Near Urdu School, Quthbullapur ",Qutubullapur ,Rodamestri Nagar ,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.53635028,78.40382338,"SubCentre, Gujulramaram -I (Urban)","Gajularamaram Bus Stop, Quthbullapur ",Qutubullapur ,"Gajularamaram Road, Gajularamaram",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.5399,78.3648,"SubCentre, Bachupally","Grama Panchayath Office, Quthbullapur ",Qutubullapur ,"Grama Panchayath Office Lane, Bachupally",,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.54459309,78.48938785,"SubCentre, Kompally","Near Grama Panchayath Office, Quthbullapur ",Qutubullapur ,,Kompally,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.545342,78.4235,"SubCentre, SuraramColony (Urban)","Siddhartha School, N.T.R Road, Quthbullapur ",Qutubullapur ,Suraram Colony,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.56212349,78.39856893,"SubCentre, Bowrampet","Grama Panchayath Office, Quthbullapur ",Qutubullapur ,"BC Colony , Bowrampet",,,Ranga Reddy,Telangana,500055,9177185526,centre,OpenGovernmentData
+17.57379925,78.42290461,"SubCentre, Dundigal","Near Dundigal Bus Stop/AWC, Grama Panchayath Office, Quthbullapur ",Qutubullapur ,Grama Panchayath Office Lane,,,Ranga Reddy,Telangana,500055,,centre,OpenGovernmentData
+17.30294148,78.5248822,"SubCentre, Badangpet","Gram Panchayath Building, Saroornagar ",Saroornagar ,,Badangpet,,Ranga Reddy,Telangana,500058,,centre,OpenGovernmentData
+17.37339552,78.53199072,"SubCentre, Beerappagadda","Near MCH Colony, Muncipal Colony, Uppal ",Uppal ,,,,Ranga Reddy,Telangana,500060,,centre,OpenGovernmentData
+17.44800616,78.57888311,"SubCentre, Ashoka Nagar (Urban)","10-1/429, Near NFC Road, Ashoknagar, Cherlapally, ECIL Road, Uppal ",Uppal ,"2nd block, Nehru Nagar",,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.47276341,78.56666833,"SubCentre, Kamala Nagar - I (Urban)","Mahesh Nagar, Near Wonder Kids Play School, Keesara ",Keesara ,,Kamala Nagar,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.47470783,78.56856197,"SubCentre, North Kamlanagar (Urban)","Near Lions Club, Keesara ",Keesara ,"Round Building, North Kamala Nagar",,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.48010091,78.55240434,"SubCentre, A S Rao Nagar (Urban)","Mahila Mandali, Keesara ",Keesara ,,A.S Rao Nagar,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.48032092,78.56291592,"SubCentre, Gandhi Nagar (Urban)","Near Upper Primary School, Keesara ",Keesara ,,Gandhi Nagar,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.48631759,78.55561763,"SubCentre, Ayodhya Nagar (Urban)","Near Ayodhya Nagar Circle, Keesara ",Keesara ,Netaji Nagar Colony,,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.487175,78.578605,"SubCentre, Kushaiguda (Urban)","Near Bus Stop, ECIL Road, Youth Association Building, Keesara ",Keesara ,Kushaiguda,,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.4933015,78.57447892,"SubCentre, Kapra- III (Urban)","1-1-1/1, Old Muncipal Office, Near Sai Priya Colony, Kapra , Keesara ",Keesara ,,,,Ranga Reddy,Telangana,500062,,centre,OpenGovernmentData
+17.49730243,78.39082807,"SubCentre, Kukatpally (Urban)",Balanagar ,Balanagar ,Kukatpally,,,Ranga Reddy,Telangana,500072,,centre,OpenGovernmentData
+17.43066179,78.54971141,"SubCentre, Nacharam (Urban)","Near Carpenter Shop, Ambedkar Nagar, Uppal ",Uppal ,,Nacharam,,Ranga Reddy,Telangana,500076,,centre,OpenGovernmentData
+17.56635432,78.52271162,"SubCentre, Devarayamjal","Beside Primary Govt. School, Shamirpet ",Shamirpet ,Devaryamjal,,,Ranga Reddy,Telangana,500078,,centre,OpenGovernmentData
+17.46149053,78.45026851,"SubCentre, Harijan Basti (Urban)","Community Hall, Near Fathenagar Railway Station Road",Balanagar ,"Harjan Basthi, Balanagar",,,Ranga Reddy,Telangana,500084,,centre,OpenGovernmentData
+17.46520815,78.45676079,"SubCentre, Balanagar (Urban)","Vinayaka Nagar, Balanagar",Balanagar ,,,,Ranga Reddy,Telangana,500084,,centre,OpenGovernmentData
+17.4661189,78.4531696,"SubCentre, Raju Colony (Urban)","H.No: 8-46, Balanagar ",Balanagar ,"Raju Colony, Balanagar",,,Ranga Reddy,Telangana,500084,,centre,OpenGovernmentData
+17.51078826,78.56176928,"SubCentre, Balajinagar","10-72/1, Near Sriram Nagar, Shamirpet ",Shamirpet ,Balaji Nagar,,,Ranga Reddy,Telangana,500087,,centre,OpenGovernmentData
+17.51229103,78.57677288,"SubCentre, Ambedkarnagar - Shamirpet","Opp. Anganwadi, Shamirpet ",Shamirpet ,Ambedkar Nagar,,,Ranga Reddy,Telangana,500087,,centre,OpenGovernmentData
+17.56431755,78.55320632,"SubCentre, Thumukunta","Dwaraka Building, Shamirpet ",Shamirpet ,Thumkunta,,,Ranga Reddy,Telangana,500087,,centre,OpenGovernmentData
+17.31913544,78.52377176,"SubCentre, Lenin Nagar","Govt. Building, Opp. Leninnagat Huts, Saroornagar ",Saroornagar ,,Lenin Nagar,,Ranga Reddy,Telangana,500097,,centre,OpenGovernmentData

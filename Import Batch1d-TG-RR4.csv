@@ -1,0 +1,90 @@
+latitude,longitude,name,addr:full,addr:subdistrict,addr:street,addr:place,addr:block,addr:district,addr:state,addr:postcode,contact:mobile,healthcare,source
+17.1871455,78.43802959,"SubCentre, Harshaguda","Opp. School , Maheswaram ",Maheswaram ,,Harshaguda,,Ranga Reddy,Telangana,501359,,centre,OpenGovernmentData
+17.21625246,78.51342,"SubCentre, Ravirala","Main Road, Maheswaram ",Maheswaram ,,Raviryal,,Ranga Reddy,Telangana,501359,,centre,OpenGovernmentData
+17.20813577,78.47638249,"SubCentre, Thukkuguda","Near Grama Panchayath Office, Maheswaram ",Maheswaram ,,Thukkuguda,,Ranga Reddy,Telangana,501359,,centre,OpenGovernmentData
+17.5649532,78.4935686,"SubCentre, Gundlapochampally","Upper Primary School Road, Medchal ",Medchal ,,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.61025367,78.46959785,"SubCentre, Gowdavally","Grama Panchayath Office, Medchal ",Medchal ,BC Colony,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.61995282,78.52740146,"SubCentre, Pudur - Medchal","Near Pochamma Temple, Medchal ",Medchal ,Kumari Basthi Road,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.63085926,78.48621614,"SubCentre, Medchal - I","Old Grama Panchayath Office, Near MRO Office, Medchal ",Medchal ,Katika Basthi,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.63276491,78.48283589,"SubCentre, Medchal -II","L.I.G - 144, Housing Board Colony, Near Market Old Hospital, Medchal ",Medchal ,,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.65590208,78.42529714,"SubCentre, Srirangavaram","Near Primary School, Medchal ",Medchal ,SC Colony,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.65859594,78.52559835,"SubCentre, Ravalkole","Grama Panchayath Office, Medchal ",Medchal ,Muslim Bhasthi,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.6691103,78.47072572,"SubCentre, Dabilpur","Near Primary School, Dabilpur, Medchal ",Medchal ,BC Colony,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.68337296,78.44340339,"SubCentre, Nuthankal","Grama Panchayath Office, Nuthankal, Medchal ",Medchal ,BC Colony,,,Ranga Reddy,Telangana,501401,,centre,OpenGovernmentData
+17.22718688,77.87278354,"SubCentre, Naskal","2-67/1, Near Old Grama Panchayath, Pargi ",Pargi ,,Naskal,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.12516523,77.96521783,"SubCentre, Chityal","Behind PHC, Pargi ",Pargi ,"BC Wada, Chityal",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.13695087,77.95264632,"SubCentre, Rapole","Near Grama Panchayath, Pargi ",Pargi ,"BC Wada, Rapole",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.157532,77.7902626,"SubCentre, Gadisingapur","Near Gram Pachayath, High School, Pargi ",Pargi ,Hanuman Temple Lane,,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.17070419,77.84068286,"SubCentre, Roopkhanpet","Near Burzu Gadda, Pargi ",Pargi ,"BC Wada, Roopkhanpet",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.1770617,77.9688683,"SubCentre, Manchanpally","Opp. Sarpanch House, Pudur ",Pudur ,"BC Colony, Manchanpally",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.18085205,77.87553817,"SubCentre, Pargi","Behind CHC, Pargi ",Pargi ,"Siridi Sai Nagar, Pargi",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.2007449,78.0065563,"SubCentre, Kankal","Beside Community Hall, Grama Panchayath Road, Pudur ",Pudur ,SC Colony,,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.20376982,77.86373377,"SubCentre, Chiguralapally","1-177, Near Burzu Gadda, Pargi ",Ibrahimpatnam ,"BC Colony, Chiguralapally",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.2258356,77.9345987,"SubCentre, Somangurthy","Beside Grama Panchayath, Hanuman Temple Road, Pudur ",Pudur ,"BC Colony, Somangurthy",,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.25074955,78.0407609,"SubCentre, Quthubullapur-I","Near Ambedkar Statue, Primary School Road, Pudur ",Pudur ,SC Colony,,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.25761951,78.02681342,"SubCentre, Chengomul-I","Opp. Hanuman Temple, SBH Bank Road, Pudur ",Pudur ,BC Colony,,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.2985131,77.9831441,"SubCentre, Manneguda","Opp. Anganwadi Centre, Pudur ",Pudur ,OC Colony,,,Ranga Reddy,Telangana,501501,,centre,OpenGovernmentData
+17.05909753,77.85295933,"SubCentre, Mothkur","2-183/1, Near Veterinary Hospital, Doma ",Doma ,"SC Wada, Mothkur",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.05942062,77.81750858,"SubCentre, Ainapur","Near Community Hall, Doma ",Doma ,"SC Wada, Ainapur",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.07511283,77.79246479,"SubCentre, Dirsampally","4-48/2, Near ZPHS, Doma ",Doma ,"BC Wada, Dirsampally",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.08513259,77.83565104,"SubCentre, Doma-I","Near SBH, Doma ",Doma ,"BC Wada, Doma",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.085912,77.83453524,"SubCentre, Doma -II","Near AWW Centre, Doma ",Doma ,"BC Wada, Doma - II",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.11553727,77.87108839,"SubCentre, Bompally","Nalapur Road, Doma ",Doma ,"B.C Ariya, Bompally",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.13514642,77.79762536,"SubCentre, Kistapur","Near Primary School, Doma ",Doma ,"BC Wada, Kistapur",,,Ranga Reddy,Telangana,501502,,centre,OpenGovernmentData
+17.33897391,78.33320081,"SubCentre, Aziz Nagar","Near Bus Stop, Deccan Grameena Bank, Moinabad ",Moinabad ,,Aziz Nagar,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.28905,78.31238,"SubCentre, Bakaram","Dwakra Building, Beside Anganwadi Centre, Near Gandhi Statue, Moinabad ",Moinabad ,,Bakaram,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.3494991,78.28682944,"SubCentre, Chilkur","Grama Panchayath Building, Beside Veterinary Hospital, Moinabad ",Moinabad ,,Chilkur,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.30529743,78.24676663,"SubCentre, Kanakamamidi","Near Grama Panchayath & Bus Stop, Moinabad ",Moinabad ,,Kanakamamidi ,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.27409406,78.22434604,"SubCentre, Kethireddypally","Near Ambedkar Statue, Moinabad ",Moinabad ,,Kethireddypally,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.2668739,78.2568696,"SubCentre, Sriram Nagar","Old School Building, Moinabad ",Moinabad ,"Grama Panchayath Road, Sriram Nagar ",,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.33802146,78.25699389,"SubCentre, Pedda Mangalaram","Gram Panchayath Building, Near Hanuman Temple, Moinabad ",Moinabad ,"Grama Panchayath Road, Pedda Mangalaram",,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.34386918,78.30766618,"SubCentre, Himayathnagar","Dwakra Building, Moinabad ",Moinabad ,"Near N.T.R Kuteeram, Himayathnagar",,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.390193,78.226966,"SubCentre, Chinnamangalaram","Near Ambedkar Statue, Moinabad ",Moinabad ,"Beside Govt. School, Chinnamangalaram",,,Ranga Reddy,Telangana,501504,,centre,OpenGovernmentData
+17.14429152,78.59265357,"SubCentre, Eliminedu","Bus Stop, Ibrahimpatnam ",Ibrahimpatnam ,"Reddy Colony, Eliminedu",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.1664534,78.63349029,"SubCentre, Cherlapatelguda","Near Grama Panchayath, Ibrahimpatnam ",Ibrahimpatnam ,"SC Colony, Cherlapatelguda",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.1726193,78.6781656,"SubCentre, Naganpally","Near Anganwadi Centre, Ibrahimpatnam ",Ibrahimpatnam ,"SC Colony, Naganpally",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.19617529,78.64819944,"SubCentre, Ibrahimpatnam (Urban)","Beside MRO Office, Ibrahimpatnam ",Ibrahimpatnam ,"Shalivahana Nagar, Ibrahimpatnam",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.19936534,78.55035111,"SubCentre, Kongara Kalan","Near Upper Primary School, Ibrahimpatnam ",Ibrahimpatnam ,"BC Colony, Kongara Kalan",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.20376982,78.71551216,"SubCentre, Raipole","Near Grama Panchayath, Ibrahimpatnam ",Pargi ,"BC Colony, Raipole",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.2101519,78.6214317,"SubCentre, Sheriguda","Near Bus Stop, Ibrahimpatnam ",Ibrahimpatnam ,"Sai Nagar , Sheriguda",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.21578361,78.58174637,"SubCentre, Magalpally Patelguda","Near Grama Panchayath, Ibrahimpatnam ",Ibrahimpatnam ,"SC Colony, Mangalpally Patelguda",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.22972569,78.76094744,"SubCentre, Dandumailaram","3-125, Near Bus Stop, Ibrahimpatnam ",Ibrahimpatnam ,"BC Colony, Dandumailaram",,,Ranga Reddy,Telangana,501506,,centre,OpenGovernmentData
+17.09173693,78.79645586,"SubCentre, Bandalemoor","Near Grama Panchayath , Manchal ",Manchal ,,Bandalemoor,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.0610039,78.7766641,"SubCentre, Badakonda","Near Library, Manchal ",Manchal ,,Bodakonda,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.12049999,78.71860206,"SubCentre, Japal","Near Grama Panchayath , Manchal ",Manchal ,,Japal,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.1806368,78.70696396,"SubCentre, Lingampally","Near ZPHS, Manchal ",Manchal ,,Lingampally,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.04120882,78.83099601,"SubCentre, Loyapally","1-121, Near Old Grama Panchayath, Manchal ",Manchal ,,Loyapalli,,Ranga Reddy,Telangana,501508,9177185526,centre,OpenGovernmentData
+17.0902973,78.7150254,"SubCentre, Rangapur","Near ZPHS , Manchal ",Manchal ,,Rangapur,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.1332634,78.7547053,"SubCentre, Arutla","Near 2nd Bus Stop, Manchal ",Manchal ,"SC Colony, Arutla",,,Ranga Reddy,Telangana,501508,9177185526,centre,OpenGovernmentData
+17.15796732,78.72104019,"SubCentre, Manchal","Near 3rd Anganwadi, Manchal ",Manchal ,,,,Ranga Reddy,Telangana,501508,,centre,OpenGovernmentData
+17.048384,78.39668468,"SubCentre, Chippalapally","Rachha Gadda, Kandukur ",Kandukur ,,Chippalapally,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.09631,78.50006,"SubCentre, Gudur","Near Temple, Kandukur ",Kandukur ,,Gudur,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.03396669,78.44930023,"SubCentre, Nednoor","Near Syndicate Bank, Kandukur ",Kandukur ,,Nednoor,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.06531305,78.41925412,"SubCentre, Pulmamidi - Kandukur","Opp. High School, Kandukur ",Kandukur ,,Pulimamidi,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.01471,78.51603,"SubCentre, Mucherla",Near Kandukur ,Kandukur ,"1st ward, Mucherla",,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.04679,78.57531,"SubCentre, Meerkhanpet","Near Grama Panchayath , Kandukur ",Kandukur ,"Near Bus Stop, Meerkhanpet",,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.06441048,78.48898619,"SubCentre, Kandukur","Near Milk Booth, Kandukur ",Kandukur ,,,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.093567,78.57957,"SubCentre, Gummadavelly","Survey No. 1, Near Komati Venkataiah Rice Mill, Kandukur ",Kandukur ,"Madhapur Raod, Gummadavelly",,,Ranga Reddy,Telangana,501509,9701258178,centre,OpenGovernmentData
+17.11634731,78.53650153,"SubCentre, Rachaloor","Behind School , Kandukur ",Kandukur ,"SC Quarters, Rachaloor",,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+17.13743786,78.5158056,"SubCentre, Lemoor","Near Water Tank, Kandukur ",Kandukur ,"SC Colony, Lemoor",,,Ranga Reddy,Telangana,501509,,centre,OpenGovernmentData
+16.92698443,77.9580912,"SubCentre, Kothapally - Kulkacharla ","Near Anganwadi School, Kulkacharla ",Kulkacharla ,"BC Colony, Kothapally",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+16.9580113,77.86245,"SubCentre, Puttapahad","Anganwadi Centre, Near Grama Panchayath Office, Kulkacharla ",Kulkacharla ,"BC Colony, Puttapahad",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+16.96962149,77.9158169,"SubCentre, Kusumasamudram","Anganwadi Centre, Near Govt. Primary School, Kulkacharla ",Kulkacharla ,"OC Colony, Kusumasamudram",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+16.98846359,77.97683313,"SubCentre, Chowdapur","High School, Kulkacharla ",Kulkacharla ,"SC Colony, Chowdapur",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.0160508,77.8746009,"SubCentre, Kulkacherla","B.C Hostel, Kulkacharla ",Kulkacharla ,Amdala Gadda,,,Ranga Reddy,Telangana,501510,9704039428,centre,OpenGovernmentData
+17.02108711,77.90014744,"SubCentre, Thirmalpur","Anganwadi Centre, Near Veri Anjaneyalu House, Kulkacharla ",Kulkacharla ,"Edigi Geri, Thirmalpur",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.02904783,77.84030199,"SubCentre, Badivelkacherla","Anganwadi Centre, Near Grama Panchayath Office, Kulkacharla ",Kulkacharla ,"BC Wada, Badivelkacherla",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.07319497,77.9068315,"SubCentre, Mujahidpur","B.C community Hall, Beside Grama Panchayath, Kulkacharla ",Kulkacharla ,"BC Colony, Mujahidpur",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.27459606,78.54713917,"SubCentre, Nadergul","Govt. Building, Beside ZPHS, Saroornagar ",Saroornagar ,"Adibhatla Road, Nadergul",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.389138,77.836728,"SubCentre, Marikal","Grama Panchayath, Kulkacharla ",Kulkacharla ,"BC Colony, Marikal",,,Ranga Reddy,Telangana,501510,,centre,OpenGovernmentData
+17.62864428,77.83992648,"SubCentre, Komshettypally","1-55, Near Hanuman Mandir, Marpalle ",Marpalle ,"BC Colony, Komshetpally",,,Ranga Reddy,Telangana,502345,,centre,OpenGovernmentData
+17.11275593,78.12324151,"SubCentre, Bodimpad","Beside Over Head Tank, Near Upper Primary School, Shabad ",Shabad ,,Bodimpad,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.2329459,78.17197859,"SubCentre, Chandanvelly","3-143, Near Buffalo Shed, Opp. Hospital, Shabad ",Shabad ,,Chandanvelly,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.22416897,78.1991896,"SubCentre, Hayathabad","Near Grama Panchayath, Shabad ",Shabad ,,Hayathabad,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.10650611,78.1614925,"SubCentre, Kakloor","Over Head Tank, Near Upper Primary School, Shabad ",Shabad ,,Kakloor,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.18702762,78.09433669,"SubCentre, Muddemguda","Near Hanuman Temple, Grama Panchayath, Shabad ",Shabad ,,Muddemguda,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.23509524,78.12261924,"SubCentre, Thollapally","Near Veterinary Hospital, Beside Grama Panchayath, Shabad ",Shabad ,,Thallapally,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.15882331,78.13383758,"SubCentre, Shabad","PHC, Near PRRM Engineering College, Shabad ",Shabad ,,,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+17.21806124,78.08450907,"SubCentre, Regadidoswada","Near Hanuman Temple, Shabad ",Shabad ,"BC Wada, Regadidoswada",,,Ranga Reddy,Telangana,509217,,centre,OpenGovernmentData
+16.96420323,77.96359777,"SubCentre, Mandipal","Anganwadi Centre, Near Grama Panchayath Office, Kulkacharla ",Kulkacharla ,"SC Colony, Mandipal",,,Ranga Reddy,Telangana,509335,,centre,OpenGovernmentData
+17.0212913,77.7931226,"SubCentre, Dadapur","4-84/1, Near Masjid, Doma ",Doma ,"BC Colony, Dadapur",,,Ranga Reddy,Telangana,509339,,centre,OpenGovernmentData
