@@ -1,0 +1,2860 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kadapa",
+                "addr:district": "YSR",
+                "addr:full": "D.No:7-137, second floor, jayanagar colony",
+                "addr:postcode": "516002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440269795",
+                "email": "bogaparvathamma@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Boga Parvathamma Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.83939130000,
+                    14.47280170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "VijayaSri Palace,D. No. 29-19-27/4, Ground Floor, First Floor and Second Floor, Dornakal Road, Suryaraopet,",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9392120187",
+                "contact:phone": "0866 2433199",
+                "email": "vijayasribloodbankvja@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Vijaya Sri Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63565330000,
+                    16.51290720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No. 10-50-11/5, Ground Floor, 1st, 2nd and 3rd Floor, Beside CARE Hospital, Waltair Main Road, Ramnagar",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9393963436",
+                "contact:phone": "0891 2543436;0891 6663436;0891 6644936.",
+                "email": "asrajavbloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "A. S. Raja Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.31304900000,
+                    17.72031370000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Amalapuram",
+                "addr:district": "East Godavari",
+                "addr:full": "Sy.No:813 & 817, Kamanagaruvu, Near Red Bridge",
+                "addr:postcode": "533201",
+                "addr:state": "Andhra Pradesh",
+                "amenity": "hospital",
+                "contact:mobile": "9949993495",
+                "contact:phone": "08856 237996; 08856 237997; 08856 237998",
+                "email": "Principal07kims@yahoo.co.in",
+                "emergency": "yes",
+                "fax": "08856 237985",
+                "healthcare": "blood_bank",
+                "name": "Kims Research Foundation Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.02246690000,
+                    16.59108890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kadapa",
+                "addr:district": "YSR",
+                "addr:full": "Ramarajupalli, Pulivendula Road",
+                "addr:postcode": "516001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440941709",
+                "contact:phone": "08562 200505; 08562 200092",
+                "healthcare": "blood_bank",
+                "name": "Fathima Institute of Medical Sciences Blood Bank",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.78969400000,
+                    14.48335020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "RTC Colony, Machilipatnam",
+                "addr:postcode": "521001",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08672 245040",
+                "email": "dhmtmbb@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government District Headquarters Hospital's blood bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.13819600000,
+                    16.17676190000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No: 13-26-2/54, 3rd Floor, Apuroopa Arcade, Near Jagadamba Junction, Maharanipeta",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848193503",
+                "contact:phone": "0891 6534635; 0891 2506678",
+                "email": "rotarybloodbankvsp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Rotary Blood Bank (Vishaka Port City Rotary Charitable Trust)",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.30333410000,
+                    17.71167130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirupati",
+                "addr:district": "CHITTOOR",
+                "addr:full": "Sri Venkateswara Institute of Medical Sciences (SVIMS) Campus",
+                "addr:postcode": "517507",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0877 2287777",
+                "fax": "0877 2286116",
+                "healthcare": "blood_bank",
+                "name": "Sri Venkateswara Institute of Medical sciences Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40430610000,
+                    13.63774620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "SRIKAKULAM",
+                "addr:full": "RIMS Government Hospital Premises, Balaga",
+                "addr:postcode": "532001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9701501018",
+                "contact:phone": "08942 279679",
+                "email": "bbrimssklm@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Rajiv Gandhi Institute of Medical Sciences (RIMS) General Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.88854920000,
+                    18.31248240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D. No.10-54-7, Lions Community Hall, Ram Nagar",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9177234307; 09393000000",
+                "contact:phone": "0891 6692587; 0891 6692580; 0891 6692590",
+                "email": "lionsbloodbankvsp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Lions Club of Visakhapatnam Blod Bank Trust",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.31130360000,
+                    17.71910650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kakinada",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "Government General Premises, Ground Floor",
+                "addr:postcode": "533001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9390207027",
+                "contact:phone": "0884 2302008",
+                "email": "bloodbankgghkkd@gmail.com",
+                "fax": "0884 2358474",
+                "healthcare": "blood_bank",
+                "name": "Government General Hospital, Blood Bank.",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.22757650000,
+                    16.95572020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nellore",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Narayana Hospital compound",
+                "addr:postcode": "524002",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0861 2317963",
+                "healthcare": "blood_bank",
+                "name": "Narayana Medical College & Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.01344920000,
+                    14.42527690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Eluru",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "Ground Floor, Hospital Block, NH 5",
+                "addr:postcode": "534005",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "07382626281; 07382626282",
+                "contact:phone": "08812 288288; 08812 288299",
+                "email": "asrams@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Alluri Sitrarama Raju Academy of Medical Sciences' Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.asram.in"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.14413440000,
+                    16.73671940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Narasaraopeta",
+                "addr:district": "GUNTUR",
+                "addr:full": "GBR Super Speciality Hospital, 10-1-10/1, Palnadu Road",
+                "addr:postcode": "522601",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9985148884",
+                "contact:phone": "9542628888",
+                "email": "nrtbioodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "NRT Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04543920000,
+                    16.23698700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur city",
+                "addr:district": "GUNTUR",
+                "addr:full": "Opposite to Andhra Christian College, Near Flyover, Main Road",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "949381997",
+                "contact:phone": "0863 2322700; 0863 2320386",
+                "healthcare": "blood_bank",
+                "name": "Saint Joseph General Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44091420000,
+                    16.29771360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No.5-168, Ward No.6, Gitam University, Rushikonda",
+                "addr:postcode": "530045",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "0891 2524777",
+                "contact:mobile": "9985556050",
+                "contact:phone": "0891-2866 450, 2538 444",
+                "email": "principal_gimsr@gitam.edu",
+                "fax": "0891-2538444",
+                "healthcare": "blood_bank",
+                "name": "Gitam Institute of Medical Sciences and Research Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "https://gimsr.gitam.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.37499340000,
+                    17.78448240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pulivendula",
+                "addr:district": "YSR",
+                "addr:full": "Ground Floor, Muddanuru Road",
+                "addr:postcode": "516390",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440978262",
+                "email": "pulivendulabb2007@gmail.com ; harishkumar.kvr@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "A.P. Vaidya vidhana parishad Area Hospital - IRCS Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.sahss.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23159340000,
+                    14.42561070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nandyal",
+                "addr:district": "KURNOOL",
+                "addr:full": "District Hospital, Noonepalli",
+                "addr:postcode": "518502",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9959912781",
+                "contact:phone": "8514221033",
+                "email": "bbdhnandyal@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "District Hospital Blood Bank - Nandyal",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48307730000,
+                    15.46921950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Razam",
+                "addr:district": "SRIKAKULAM",
+                "addr:full": "GMR Varalakshmi Care Hospital Premises, GMR Nagar",
+                "addr:postcode": "532127",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "1800 4251 834",
+                "contact:mobile": "7032823184",
+                "contact:phone": "08941 253183; 08941 253184",
+                "fax": "08941 253185",
+                "healthcare": "blood_bank",
+                "name": "GMR Varalakshmi Care Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.65837680000,
+                    18.46152980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Palakol",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "D.No. 47-1-12/2C, 1st floor, Beside Chamber of Commerce Building, Srinivasa Deluxe",
+                "addr:postcode": "534260",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9885144415",
+                "contact:phone": "08814 222678",
+                "email": "palakolvoluntarybloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Palakol Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.72685240000,
+                    16.51387020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kadapa",
+                "addr:district": "YSR",
+                "addr:full": "Blood Bank Medical Officer, O.P. Block Ground Floor, Blood Bank, RIMS General Hospital,Puttlampalli",
+                "addr:postcode": "516001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09502577742; 09703158194",
+                "contact:phone": "08562 225665",
+                "email": "kadapabb@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Rajiv Gandhi Institute of Medical Sciences Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.86347350000,
+                    14.43357370000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gudur",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Area Hospital Compound",
+                "addr:postcode": "524101",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "8008553616",
+                "email": "ahgudur@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Government Hospital Blood Bank - Gudur",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84877230000,
+                    14.14671540000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "D. No. 29-19-85, 1st & 2nd Floor,Old Janatha Hospital Building, Dornakal Road, Suryaraopet",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0866 2434417",
+                "email": "lionsbloodbank@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Lions Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63477350000,
+                    16.51012860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "GUNTUR",
+                "addr:full": "4th Floor, Behind Sivalayam Temple, kothapeta",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0863 2219955",
+                "healthcare": "blood_bank",
+                "name": "Sri Lakshmi Maternity & Surgical Nursing Home Blood Bank",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44987540000,
+                    16.30027900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Chinnaoutapalli",
+                "addr:postcode": "521286",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08676 257311",
+                "healthcare": "blood_bank",
+                "name": "Dr. Pinnamaneni Siddhartha Insitiute of Medical Sciences & Research Foundation's (Dr.P.SIMS & RF) Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.83097850000,
+                    16.55263280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Adoni",
+                "addr:district": "KURNOOL",
+                "addr:full": "First Floor, Government Area Hospital",
+                "addr:postcode": "518301",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440503302",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - RCH 2",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.26909340000,
+                    15.62317500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Eluru",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "Government Headquarters Hospital, Ground Floor, R.R. Peta",
+                "addr:postcode": "534006",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08812 220333",
+                "email": "wgbloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.09546840000,
+                    16.71240870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Sangivalasa",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "Sangivalasa, Bheemunipatnam",
+                "addr:postcode": "531162",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "08933 226900",
+                "contact:phone": "8912821111- 126",
+                "email": "nriims@gmail.com",
+                "fax": "0891 2821199",
+                "healthcare": "blood_bank",
+                "name": "Anil Neerukonda Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.42666480000,
+                    17.92171640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nellore",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Indian Red Cross Society (IRCS) Road, Madras Bus stand",
+                "addr:postcode": "524003",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9347033100",
+                "contact:phone": "0861 2320470",
+                "email": "redcross_nlr@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Nellore",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97996920000,
+                    14.44394090000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "Kurnool",
+                "addr:full": "D. No. 50/760-A-127-13,1st Floor (O.P. Block), Gayathri Estate",
+                "addr:postcode": "518002",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08518 22294",
+                "healthcare": "blood_bank",
+                "name": "Viswa Bharathi Blood Bank",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03758790000,
+                    15.81373000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tenali",
+                "addr:district": "GUNTUR",
+                "addr:full": "Blood Bank Medical Officer, Blood Bank, Area Hospital",
+                "addr:postcode": "522201",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9866686760",
+                "email": "tenalibloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government Hospital Blood Bank - Tenali",
+                "opening_hours": "24/7",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63125180000,
+                    16.24477490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Narasapuram",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "C/o. Community Healthcare Center",
+                "addr:postcode": "534275",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "8179704000",
+                "contact:phone": "08814 276656",
+                "email": "harshasatish555@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank- Narasapuram",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.indianredcross.ap.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.68544840000,
+                    16.43011600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Government General Hospital",
+                "addr:postcode": "515001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9866695858",
+                "contact:phone": "08554 275024",
+                "email": "bloodbankgghatp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government General Hospital Blood Bank - Ananthapur",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442190000,
+                    14.67084050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No:14-35-4, Behind Collectorate, Z..P. Junction, Maharanipeta",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "0891 2794153",
+                "contact:mobile": "9848027203",
+                "contact:phone": "0891 2703953",
+                "email": "secretaryvspredcross@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Visakhapatnam",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.30925180000,
+                    17.71018690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Repalle",
+                "addr:district": "GUNTUR",
+                "addr:full": "Government Hospital Premises",
+                "addr:postcode": "522265",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9177883353",
+                "contact:phone": "08648 223939",
+                "email": "rplredcrossbb@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Red Cross Blood Bank - Rapalle",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.83533970000,
+                    16.02065470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirupati",
+                "addr:district": "CHITTOOR",
+                "addr:full": "Tirumala Tirupati Devastanam (TTD), Kapil Teertham Road",
+                "addr:postcode": "517501",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849099750",
+                "contact:phone": "0877 2264622",
+                "email": "ttdcentralhospital@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "TTD Central Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42098270000,
+                    13.64228430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Bhimavaram",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "Sivaraopeta Road, Door No 27-8-21/3, Balusumoodi, Bhimavaram",
+                "addr:postcode": "534202",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "+91- 8816-230878, 230888",
+                "email": "info@anandarajufoundation.org",
+                "healthcare": "blood_bank",
+                "name": "Uddaraju Anandaraju Foundation Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "www.anandarajufoundation.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.51585910000,
+                    16.54309520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Ongole",
+                "addr:district": "PRAKASAM",
+                "addr:full": "C/o. RIMS General Hospital, D.No. 8-5-2/A, Opposite Bapuji Kalamandir, Bhagya Nagar, 5th Lane",
+                "addr:postcode": "523001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9000991884",
+                "contact:phone": "8592233310",
+                "email": "bloodbankrimsongole@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "RIMS General Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData",
+                "website": "http://www.rimsongole.org/hospital.aspx"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04702510000,
+                    15.48813730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Madnapalli",
+                "addr:district": "CHITTOOR",
+                "addr:full": "Area Hospital, Patel Road",
+                "addr:postcode": "517325",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440580272",
+                "contact:phone": "08571 222087",
+                "email": "ircsbbmpl2009@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Madanapalli RCH 2",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50106150000,
+                    13.55688780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kuppam",
+                "addr:district": "Chittoor",
+                "addr:full": "PES Institute of medical sciences premises",
+                "addr:postcode": "517425",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9391833741",
+                "contact:phone": "08570 256737",
+                "email": "pathpesimsr@gmail.com",
+                "fax": "08570 257200",
+                "healthcare": "blood_bank",
+                "name": "PESIMSR Blood Bank.",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.36560460000,
+                    12.79039440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Ragolu",
+                "addr:district": "SRIKAKULAM",
+                "addr:full": "Gems Hospital Premises",
+                "addr:postcode": "532001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9391489207",
+                "healthcare": "blood_bank",
+                "name": "Great Eastern Medical School & Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.90274080000,
+                    18.35197720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gajuwaka",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "Ukkunagaram, Steel Plant,",
+                "addr:postcode": "530032",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "07702917979; 08912888462",
+                "contact:phone": "0891 2887722",
+                "healthcare": "blood_bank",
+                "name": "Visakha Steel General Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.14485310000,
+                    17.66261880000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "KADAPA",
+                "addr:district": "YSR",
+                "addr:full": "D.No: 10-971, Opposite to Mattipedda Puli, Trunk Road",
+                "addr:postcode": "516001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9704798189",
+                "contact:phone": "08562 272829",
+                "email": "ircskadapa@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Kadapa",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.81909640000,
+                    14.48383840000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Ongole",
+                "addr:district": "PRAKASAM",
+                "addr:full": "D. No.37-1-169/54, 2nd Floor, Sundharaiah Bhavan Raod",
+                "addr:postcode": "523001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09247023117; 09848999117",
+                "contact:phone": "9247023117",
+                "email": "ehara.rao0900@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Life Line Volunytary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04014920000,
+                    15.51226500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirupati",
+                "addr:district": "CHITTOOR",
+                "addr:full": "Ruia Hospital Road",
+                "addr:postcode": "517507",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9949190197",
+                "email": "supdtgmhtirupati@yahoo.com",
+                "fax": "08772 230367",
+                "healthcare": "blood_bank",
+                "name": "Govt. Maternity Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40804510000,
+                    13.64018210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "KURNOOL",
+                "addr:full": "Opposite Ravi Theatre, D.M & H.O Compound, Beside Control Room",
+                "addr:postcode": "518002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9490601960",
+                "contact:phone": "08518 255347",
+                "email": "indianredcrossknl@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Kurnool",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04029020000,
+                    15.81622810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur Rural",
+                "addr:district": "GUNTUR",
+                "addr:full": "Soumyanagar, Tadepalli",
+                "addr:postcode": "522501",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0866 2489700 - 102",
+                "fax": "0866 2498400",
+                "healthcare": "blood_bank",
+                "name": "Manipal Hospital Bloodbank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.manipalhospital.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.61697970000,
+                    16.48443640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Bathalapalli",
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Kadiri Road, Bathalapalli",
+                "addr:postcode": "515661",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9493268861",
+                "contact:phone": "08559 244259",
+                "healthcare": "blood_bank",
+                "name": "Rural Development Trust Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61812390000,
+                    14.65226260000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirupati",
+                "addr:district": "CHITTOOR",
+                "addr:full": "S.V.R.R. Government General Hospital's Blood Bank",
+                "addr:postcode": "517502",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0877 2286290",
+                "email": "modelbloodbanktpt2010@gmail.com",
+                "fax": "0877 2286290",
+                "healthcare": "blood_bank",
+                "name": "SVRRGGH - Model Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40732090000,
+                    13.64427960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nellore",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Narayana Hospital compound",
+                "addr:postcode": "524002",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0861 2317963",
+                "healthcare": "blood_bank",
+                "name": "Narayana Medical College & Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.01312130000,
+                    14.42716480000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirupati",
+                "addr:district": "CHITTOOR",
+                "addr:full": "10-13-514, 1st Floor, Reddy & Reddy's Colony",
+                "addr:postcode": "517501",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9246999571",
+                "contact:phone": "0877 6667671",
+                "email": "svsctbloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "S.V.S. Charitable Trust Blood Bank and Transfusion Centre",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42092370000,
+                    13.63562320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Ongole",
+                "addr:district": "PRAKASAM",
+                "addr:full": "IRCS Blood Bank, Railway Station Road, Santhapet",
+                "addr:postcode": "523001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9247264635",
+                "contact:phone": "08592 236093",
+                "email": "ircsbbongole@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Ongole",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.REDCROSS-prakasam.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.05149230000,
+                    15.49808080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tenali",
+                "addr:district": "GUNTUR",
+                "addr:full": "D.No. 7-5-56, KRR Complex, 1st Floor, Opposite ASN college, Prakasam Road, Ganganammapeta,",
+                "addr:postcode": "522201",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9247155622",
+                "contact:phone": "08644 231222; 08644 654123",
+                "email": "maruthi_nagalingam@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Rudhira Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.64632040000,
+                    16.24344550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No.11-4-4/A, 5th Floor, Rock Dale Layout, Waltair MainRoad",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848199322",
+                "contact:phone": "0891 6677777",
+                "fax": "0891 2565635",
+                "healthcare": "blood_bank",
+                "name": "Seven Hills Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.sevenhillshospital.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.30954480000,
+                    17.71724900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "P. No. 15B-3-1, Block No. 56, Waltair Main Road, Ramnagar",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09032005619",
+                "contact:phone": "0891 2565858; 0891 2555858",
+                "healthcare": "blood_bank",
+                "name": "N.T.R. Memorial Trust Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.ntrtrust.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.31082160000,
+                    17.71808050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gudivada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Gudivada",
+                "addr:postcode": "521301",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "7799990904",
+                "contact:phone": "08674 245040",
+                "email": "areahospital.gudivada@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Area Hospital Blood Bank - Gudivada",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.99173930000,
+                    16.43459310000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tuni",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "M/s. Government Area Hospital Blood Bank, Area Hospital",
+                "addr:postcode": "533401",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09849030908; 09505615556",
+                "contact:phone": "08854 252333",
+                "email": "tunibloodbank@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Government Area General Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.54127960000,
+                    17.35496050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "KURNOOL",
+                "addr:full": "Budhawarapeta",
+                "addr:postcode": "518002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9985676311",
+                "email": "knlgghbloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government General Hospital Blood Bank -Kurnool",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03982080000,
+                    15.81911450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nellore",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Dargamitta",
+                "addr:postcode": "524003",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "92477088602",
+                "email": "dsrbbnlr@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government General Hospital's Blood Bank - Nellore",
+                "opening_hours": "24/7",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.96310680000,
+                    14.42538860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "KURNOOL",
+                "addr:full": "D.No. 40-304-10, 2nd Floor, Bhagya Nagar",
+                "addr:postcode": "518004",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9966662331",
+                "contact:phone": "08518 223131",
+                "email": "rrbloodbank@yahoo.in",
+                "healthcare": "blood_bank",
+                "name": "R.R. Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03627760000,
+                    15.82866390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Punnammathota, Bandhar Road",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0866 2572057",
+                "email": "annshospitall@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "St.Ann's Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63115520000,
+                    16.50462520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gajuwaka",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "INHS Kalyani Hospital, Gandhigram (PO),",
+                "addr:postcode": "530005",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0891 2814028",
+                "healthcare": "blood_bank",
+                "name": "INHS Kalyani Blood Bank",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.25096030000,
+                    17.68722530000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Puttaparthy",
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Prasanthigram",
+                "addr:postcode": "515134",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9490360321",
+                "contact:phone": "08555 287900",
+                "email": "saikiran_ptp@yahoo.co.in",
+                "healthcare": "blood_bank",
+                "name": "S.S.S.I.H.M.S. Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77708230000,
+                    14.15168690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Kanuru",
+                "addr:postcode": "520007",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848141550",
+                "contact:phone": "0866 2554701",
+                "healthcare": "blood_bank",
+                "name": "Nagarjuna Hospital Blood Bank",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.68422940000,
+                    16.48733370000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Ring Road, Gunadala",
+                "addr:postcode": "520008",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0866 2452244; 0866 2453488",
+                "email": "gghbbvij@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "NTR University General Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.67000030000,
+                    16.51658840000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "CHITTOOR",
+                "addr:full": "Head Quarters Hospital Compound",
+                "addr:postcode": "517001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849229482",
+                "email": "bloodbankctr1@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "District Head Quarters Hospital Blood Bank.",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09699870000,
+                    13.21719680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "SRIKAKULAM",
+                "addr:full": "D.No. 8-5-2/A, Opposite to Bapuji Kalamandir, Plakonda Road",
+                "addr:postcode": "532001",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "1910",
+                "contact:phone": "08942 226555; 08942 226111",
+                "email": "chairman.redcrosssklm@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Srikakulam",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.ircssrikakulam.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.89467130000,
+                    18.29617080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tirumala",
+                "addr:district": "CHITTOOR",
+                "addr:full": "Tirumala Tirupati Devastanam (TTD)",
+                "addr:postcode": "517507",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9490651605",
+                "email": "suresh.bandapalli@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Aswini Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34852820000,
+                    13.67729400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tanuku",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "D.No.34-4/5, Ground Floor, Supriya Towers",
+                "addr:postcode": "534211",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9133111131",
+                "contact:phone": "08819 225269",
+                "email": "nanibuddala@gmail.com",
+                "fax": "08819 221096",
+                "healthcare": "blood_bank",
+                "name": "Sri Buddala Narasimhamurty Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.68022480000,
+                    16.75570030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "29-10-8, Govinda Rajulu Naidu Street, Suryaraopet",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9394777899",
+                "contact:phone": "0866 2434499",
+                "email": "surakshabloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Suraksha Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63290470000,
+                    16.51389150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Markapur",
+                "addr:district": "PRAKASAM",
+                "addr:full": "A.P.V.P. Area Hospital, Cumbum Road",
+                "addr:postcode": "523316",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440211131",
+                "contact:phone": "08596 223485",
+                "email": "ahmarkapur@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood bank - Markapur",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.25518200000,
+                    15.74104590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur city",
+                "addr:district": "GUNTUR",
+                "addr:full": "1st Floor, Honda Show Room Building, Opposite Doctor Plaza, Kothapeta",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9246448899",
+                "contact:phone": "0863 6638222; 0863 6639222",
+                "email": "needsbloodbankguntur@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Needs Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44928800000,
+                    16.29875300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Visakhapatnam",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "King George Hospital, Maharanipeta",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "8912563345",
+                "contact:phone": "0891 2564891",
+                "email": "kgh_vsp@ap.nic.in",
+                "healthcare": "blood_bank",
+                "name": "King George Hospital (KGH) Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.30462200000,
+                    17.70865220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Anakapalli",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "Anakapalli",
+                "addr:postcode": "531001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848325561",
+                "email": "bloodbank.ahakp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "District Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.00674080000,
+                    17.68459830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kavali",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Area Hospital Compound",
+                "addr:postcode": "524201",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9247708602",
+                "healthcare": "blood_bank",
+                "name": "APVVP- Andhra Pradesh Vaidya Vidhana Parishad Area Hospital's Blood Bank - Kavali",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99256550000,
+                    14.91338940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Rajahmundry",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "D.No: 46-13-31,1st Floor, Gowthami Scan Centre Private Limited, Near Gandhi Park, Danaviepeta",
+                "addr:postcode": "533103",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0883 2464745; 0883 246569878; 0883 2461493",
+                "healthcare": "blood_bank",
+                "name": "Swatantra Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.77747500000,
+                    17.01429820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Eluru",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "General Hospital Premises",
+                "addr:postcode": "534006",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848177142",
+                "contact:phone": "08812 224722",
+                "email": "redcrosseluru@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Component Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.indianredcross.ap.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.09475490000,
+                    16.71194890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Bhimavaram",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "D.No. 24-1-1, R.K. Plaza (Sarovar complex), J. P. Raod",
+                "addr:postcode": "534202",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9666001234",
+                "contact:phone": "08816 225556",
+                "email": "asnrajutrust@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "ASN Raju Charitable Trust Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.asnrajutrust.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.51624800000,
+                    16.54396940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Blood Bank Medical Officer,Blood Bank, Indian Red Cross Society",
+                "addr:postcode": "515001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9866023293",
+                "contact:phone": "8554246344",
+                "email": "ircsbloodbank.anantapur@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society - Ananthapur",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60975270000,
+                    14.65496650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "PRODDATUR",
+                "addr:district": "YSR",
+                "addr:full": "APVVP- Andhra Pradesh Vaidya Vidhana Parishad, Gavini Circle, Yerraguntla Bypass Road",
+                "addr:postcode": "516360",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9985198393,8106104334",
+                "email": "mobb.pdtr@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "APVVP- Andhra Pradesh Vaidya Vidhana Parishad Area Hospital Blood Bank- Proddatur",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55107400000,
+                    14.74168550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Amalapuram",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "Blood Bank Medical Officer, Blood Bank, Government Hospital",
+                "addr:postcode": "533201",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9989106236",
+                "email": "bloodbankahamp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government Hospital",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.00847490000,
+                    16.58735690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Nandyal",
+                "addr:district": "KURNOOL",
+                "addr:full": "Shafa Educational Society, NH-18",
+                "addr:postcode": "518501",
+                "addr:state": "Andhra Pradesh",
+                "healthcare": "blood_bank",
+                "name": "Santhiram Medical College & General Hospital Blood Bank",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41744310000,
+                    15.49236970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur city",
+                "addr:district": "GUNTUR",
+                "addr:full": "Zilla Parishad Compound, Nagarampalem",
+                "addr:postcode": "522004",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09848181601; 08121751295",
+                "contact:phone": "0863 2215656",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Guntur",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.43261950000,
+                    16.29364470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Narasaraopeta",
+                "addr:district": "GUNTUR",
+                "addr:full": "Area Hospital",
+                "addr:postcode": "522601",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "08647 224455",
+                "contact:mobile": "09885222155; 09885838866",
+                "contact:phone": "8647224455",
+                "email": "nrtbloodbankircs@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Narassraopet",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.04854990000,
+                    16.23586610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vizianagaram",
+                "addr:district": "VIZIANAGARAM",
+                "addr:full": "D.No. 31-15, Nellimarla",
+                "addr:postcode": "535002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440043451",
+                "contact:phone": "08922 244394",
+                "healthcare": "blood_bank",
+                "name": "Maharaja Institute of Medical Sciences Blood Bank",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.44240800000,
+                    18.14610540000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kakinada",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "D.No: 8-14-39, Ground & 1st Floor, Red Cross Street, Gandhi Nagar, Kakinada",
+                "addr:postcode": "533004",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848071868",
+                "contact:phone": "0884 2385800",
+                "email": "nraopydah@yahoo.co.in",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Kakinada",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://www.Indianredcross-eg.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.22765160000,
+                    16.97006920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Hindupur",
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Government General Hospital Blood Bank",
+                "addr:postcode": "515201",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08556 225900",
+                "email": "ircshup@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank - Hindupur",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.49223170000,
+                    13.83254560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "First Floor, D. No. 40-13-3& 3A, Ring Road, Sriramachandra Nagar",
+                "addr:postcode": "520008",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "8498061158",
+                "contact:phone": "0866 2541414",
+                "healthcare": "blood_bank",
+                "name": "Ayush NRI LEPL Health Care Private Limited's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.aayushhospitals.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.67509650000,
+                    16.51752180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Piduguralla",
+                "addr:district": "GUNTUR",
+                "addr:full": "Gaganamma Temple",
+                "addr:postcode": "522413",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849212042",
+                "contact:phone": "08649 254567",
+                "healthcare": "blood_bank",
+                "name": "Anjireddy Multi Specality Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89358660000,
+                    16.47869050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D. No.6-25, Maridi Valley, Marikavalasa, Madhurawada",
+                "addr:postcode": "530048",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "7675808026",
+                "contact:phone": "0891 2793741; 0891 2590131",
+                "email": "gvphospital@gmail.com",
+                "fax": "0891 2793740",
+                "healthcare": "blood_bank",
+                "name": "Gayatri Vidya Parishad Institute of Health Care and Medical Technology",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.gvpmc.in"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.36036860000,
+                    17.83067760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "GUNTUR",
+                "addr:full": "C/o Government General Hospital, Opposite to Railway Station, 1st Floor",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9966641474",
+                "contact:phone": "0863 2220035-280",
+                "email": "bloodbank.ggh.gnt@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government General Hospital's Blood Bank - Guntur",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44353600000,
+                    16.29971520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur city",
+                "addr:district": "GUNTUR",
+                "addr:full": "Lions Club, 1st Floor, Kothapeta",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "addr:street": "Somuvari Street",
+                "contact:mobile": "9246600777",
+                "contact:phone": "0863 2336198; 0863 2336199",
+                "healthcare": "blood_bank",
+                "name": "Lions Vision Blood Bank",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44937760000,
+                    16.29923350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "H.No: 26-5-5, G.S Raju Street, Gandhinagar",
+                "addr:postcode": "520003",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9848124977",
+                "contact:phone": "0866 2570082; 0866 6464002",
+                "email": "redcrosskrishna@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Rotary Red Cross Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.62463610000,
+                    16.51840130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vizianagaram",
+                "addr:district": "VIZIANAGARAM",
+                "addr:full": "District Headquarters Hospital, Cantonment",
+                "addr:postcode": "535003",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440070099",
+                "email": "bloodbankdhvzm@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "District Headquarters Hospital Blood Bank- Vizianagaram",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.38652950000,
+                    18.11080840000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "40-9/1-26, Vasavya Complex, Benz Circle",
+                "addr:postcode": "520010",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9246289777",
+                "contact:phone": "0866 2497977; 0866 645977",
+                "healthcare": "blood_bank",
+                "name": "Chaitanya Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.65537150000,
+                    16.49869870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Visakhapatnam",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "Chengal Rao Peta, Port Area, Women & Children Hospital Blood Bank",
+                "addr:postcode": "530001",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "0891 2562637",
+                "contact:mobile": "9059522294",
+                "contact:phone": "0891 2562637",
+                "email": "VGHBLOODBANK@gmail.com; supdtvgh@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Government Victoria Hospital Blood Bank- Visakhapatnam",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.29806430000,
+                    17.69882700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Rajahmundry",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "NH-16, Lakshmi Puram, Rajanagaram",
+                "addr:postcode": "533296",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0883 2484999",
+                "fax": "0883 2484888",
+                "healthcare": "blood_bank",
+                "name": "G. S. L. Medical College General Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.88312320000,
+                    17.06663610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "Smt CH. Manju Vani Vara Prasad, H.No.29-4-54K, Conan Dhanvoda Anantham Complex, Prakasam Road, Suryaraopet,",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849118077",
+                "contact:phone": "0866 2573636",
+                "email": "lionsbloodbank@yahoo.com",
+                "healthcare": "blood_bank",
+                "name": "Lions District 316D Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63250300000,
+                    16.51029060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kavali",
+                "addr:district": "SPSR NELLORE",
+                "addr:full": "Survey No.1083/3, R.D. Office Compound",
+                "addr:postcode": "524201",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849850498",
+                "contact:phone": "08626 244766",
+                "healthcare": "blood_bank",
+                "name": "Kanamarlapudi Koteswara Rao Indian Red Cross Society Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99141890000,
+                    14.90606720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur Rural",
+                "addr:district": "GUNTUR",
+                "addr:full": "Mangalagiri Mandalam, Chinakakani",
+                "addr:postcode": "522503",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "09849989813; 09849989843",
+                "contact:phone": "08645 236777; 08645 237401; 08645 230101",
+                "healthcare": "blood_bank",
+                "name": "NRI Medical College and General Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55733680000,
+                    16.41487550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Machilipatnam",
+                "addr:district": "KRISHNA",
+                "addr:full": "DM & HO Campus, Machilipatnam",
+                "addr:postcode": "521001",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08672 230605",
+                "email": "drprcbloodbankmtm@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Dr. Pattabhi Red Cross Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.14475670000,
+                    16.18684670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntakal",
+                "addr:district": "ANANTAPUR",
+                "addr:full": "S.C. Railway Hospital",
+                "addr:postcode": "515801",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9701374501",
+                "contact:phone": "08552 227166",
+                "healthcare": "blood_bank",
+                "name": "South Central Railway Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.36615450000,
+                    15.17294410000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Parvathipuram",
+                "addr:district": "VIZIANAGARAM",
+                "addr:full": "Area Hospital Premises, First Floor, Belagam",
+                "addr:postcode": "535501",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9908842182",
+                "contact:phone": "08963 222088",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank- RCH-II",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.42432450000,
+                    18.77114930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Eluru",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "D.No.13-1, Good Samaritan Cancer and General Hospital, Vangayagudem",
+                "addr:postcode": "534001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9440470715",
+                "contact:phone": "08812 246430; 08812 246947",
+                "email": "samaritaneluru@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Good Samaritan's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://goodsmaritanhospitals.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.09485150000,
+                    16.69648340000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "KURNOOL",
+                "addr:full": "2nd Floor, R. T. Nagar, Near Penchikalapadu (v) Kallur (m)",
+                "addr:postcode": "518467",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "08518 283964",
+                "healthcare": "blood_bank",
+                "name": "Viswa Bharathi General Hospital's Blood Bank",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88033400000,
+                    15.74280780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kakinada",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "D.No: 15-8-3, Rotary Club Golden Jubilee Charitable Trust, Second Floor, Brahmarishi Road, Satya Prasanna Nagar",
+                "addr:place": "Ragam Peta",
+                "addr:postcode": "533001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9494673434",
+                "contact:phone": "0884 2367366",
+                "healthcare": "blood_bank",
+                "name": "Rotary Club Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.23839390000,
+                    16.95580620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Rajahmundry",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "Blood Bank Medical Officer, Blood Bank, District Headquarters Hospital, Rajahmundry",
+                "addr:postcode": "533101",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849520969",
+                "email": "govtbloodbank.rjy@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "District Hospital Blood Bank - Rajahmundry",
+                "opening_hours": "24/7",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.79187040000,
+                    17.01962390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "D.No.10-50-80, 1st Floor, Apollo Hospital, Waltair Main Road",
+                "addr:postcode": "530002",
+                "addr:state": "Andhra Pradesh",
+                "contact:helpline": "0891 2727272",
+                "contact:phone": "0891 2727272",
+                "email": "Jhansilaxmi-a@apollohospital.com",
+                "fax": "0891 2560858",
+                "healthcare": "blood_bank",
+                "name": "Apollo Hospital's Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData",
+                "website": "http://www.apollohospital.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.30920120000,
+                    17.71706420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur Rural",
+                "addr:district": "GUNTUR",
+                "addr:full": "Katuri Nagar, Chinakondrupadu",
+                "addr:postcode": "522019",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0863 2288555; 0863 2288556 - 234",
+                "email": "katuribloodbank@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Katuri Medical College and Hospital Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "private",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.31026240000,
+                    16.22782990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Jangareddygudem",
+                "addr:district": "WEST GODAVARI",
+                "addr:full": "Government Hospital Premises, Jangareddygudem",
+                "addr:postcode": "534447",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9493009404",
+                "contact:phone": "08821 225305",
+                "email": "Bloodbankahjrg@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank- Jangareddi gudem",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData",
+                "website": "http://www.indianredcross.ap.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.29197510000,
+                    17.13027000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Chirala",
+                "addr:district": "PRAKASAM",
+                "addr:full": "Ground Floor, Room No.10, Area Hospital",
+                "addr:postcode": "523155",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9441743892",
+                "contact:phone": "8520026320",
+                "email": "shaikabdulhafiz@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Area Hospital Blood Bank - Chirala",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.36120160000,
+                    15.82488470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vizianagaram",
+                "addr:district": "VIZIANAGARAM",
+                "addr:full": "D.No. 71/82, Near Ganesh Temple, Cantonment",
+                "addr:postcode": "535003",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "8142578999",
+                "contact:phone": "08922 272700",
+                "email": "secretaryredcrossvizianagaram@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.38924530000,
+                    18.11877490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Anakapalli",
+                "addr:district": "VISAKHAPATNAM",
+                "addr:full": "APVVP- Andhra Pradesh Vaidya Vidhana Parishad Hospital Premises, Anakapalli",
+                "addr:postcode": "531001",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9491817042",
+                "contact:phone": "08924 223340",
+                "email": "bloodbank.ahakp@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "NTR Area Hospital Blood Bank",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.00722900000,
+                    17.68428720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Rajahmundry",
+                "addr:district": "EAST GODAVARI",
+                "addr:full": "D.No:46-21-1,2nd Floor, Danavaiepeta",
+                "addr:postcode": "533103",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9885186533",
+                "contact:phone": "0833-2473050",
+                "email": "dvbbrjy@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Dhanwantari Voluntary Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.78521450000,
+                    17.00787830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Kadiri",
+                "addr:district": "ANANTAPUR",
+                "addr:full": "Ground Floor, APVVP- Andhra Pradesh Vaidya Vidhana Parishad (Government General Hospital) Area Hospital",
+                "addr:postcode": "515591",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9989738689",
+                "contact:phone": "08494 221544",
+                "email": "kadiriircs@gmail.com",
+                "healthcare": "blood_bank",
+                "name": "Indian Red Cross Society Blood bank - RCH -II KADIRI",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15755370000,
+                    14.11307460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Vijayawada",
+                "addr:district": "KRISHNA",
+                "addr:full": "29-13-79/A, Ground Floor, Kaleswara Rao Road, Narsimharao Naidu Street, Governor Peta, Suryaraopet",
+                "addr:postcode": "520002",
+                "addr:state": "Andhra Pradesh",
+                "contact:mobile": "9849833321; 9949415707",
+                "contact:phone": "0866 2435888",
+                "healthcare": "blood_bank",
+                "name": "Bethesda Blood Bank",
+                "source": "OpenGovernmentData"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63268070000,
+                    16.51297150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Guntur city",
+                "addr:district": "GUNTUR",
+                "addr:full": "Door No. 13-2-87, 1st Line G. V. Thota",
+                "addr:postcode": "522001",
+                "addr:state": "Andhra Pradesh",
+                "contact:phone": "0863 2338444",
+                "healthcare": "blood_bank",
+                "name": "NTR Memorial Trust Blood Bank",
+                "opening_hours": "24/7",
+                "operator:type": "charity",
+                "source": "OpenGovernmentData",
+                "website": "http://ntrtrust.org/blood-bank/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44988620000,
+                    16.29684340000
+                ]
+            }
+        }
+    ]
+}
